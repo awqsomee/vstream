@@ -1,0 +1,4 @@
+/node_modules
+/out
+forge.config.js
+.vscode/launch.json
